@@ -1,0 +1,2 @@
+rootProject.name='FloatingActButton'
+include ':app'
